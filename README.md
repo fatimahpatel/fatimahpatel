@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Fatimah 😊 a Junior Full-Stack Engineer 👨‍💻 Open to work 🚀</div>  
+### <div align="center">I'm Fatimah 😊 an aspiring Software Engineer 👨‍💻 Open to work 🚀</div>  
   
 
 - 🔭 I’m currently working on a [Stranger Things Random Quote Generator](https://github.com/fatimahpatel/stranger_things_api_lab)  
