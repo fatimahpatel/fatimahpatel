@@ -6,10 +6,10 @@
 ### <div align="center">I'm Fatimah 😊 an aspiring Software Engineer 👨‍💻 Open to work 🚀</div>  
   
 
-- 🔭 I’m currently working on a [Stranger Things Random Quote Generator](https://github.com/fatimahpatel/stranger_things_api_lab)  
+- 🔭 I’m currently building my personal portfolio (https://github.com/fatimahpatel/personal_portfolio)
   
 
-- 🌱 I’m currently learning Tailwind  
+- 🌱 I'm practising React.js with Bootstrap
   
 
 - ⚡ Fun fact: I'm currently part of a running club 🏃‍♀️  
