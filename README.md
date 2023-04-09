@@ -9,7 +9,7 @@
 - 🔭 I’m currently building my personal portfolio (https://github.com/fatimahpatel/personal_portfolio)
   
 
-- 🌱 I'm practising React.js with Bootstrap
+- 🌱 I'm practising React.js with Bootstrap (with some Python on the side)!
   
 
 - ⚡ Fun fact: I'm currently part of a running club 🏃‍♀️  
